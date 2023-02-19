@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cyberkarim/cyberkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Karim ! 👋<br/><a href="https://github.com/cyberkarim">AI learner</a>, <a href="https://leetcode.com/KARMA-SEAL/">programmer</a></h1>
+<h1>Hi, I'm Karim ! 👋<br/><a href="https://github.com/cyberkarim">AI learner 🌱⚡</a>, <a href="https://leetcode.com/KARMA-SEAL/">programmer 🔭</a></h1>
 
 <h2>👨‍💻AI Software Development Projects:</h2>
 
