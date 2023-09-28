@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hi, I'm Karim ! 👋<br/><a href="https://www.kaggle.com/majdikarim">AI learner 🌱⚡</a>, <a href="https://leetcode.com/KARMA-SEAL/">programmer 🔭</a></h1>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me : <a href="https://www.linkedin.com/in/karim-majdi-3a4960197/"><img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> </h2>
 
 <a href="https://www.linkedin.com/in/karim-majdi-3a4960197/"><img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <!--
