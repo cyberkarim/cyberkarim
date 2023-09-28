@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Karim ! 👋<br/><a href="https://www.kaggle.com/majdikarim">AI learner ⚡🏹</a>, <a href="https://leetcode.com/KARMA-SEAL/">programmer :octocat: 💻 </a>, <a href="https://lichess.org/@/cyberkarim"> chess player ♟️ </a> </h1>  
+<h1>Hi, I'm Karim ! 👋<br/><a href="https://www.kaggle.com/majdikarim">AI learner ⚡🏹</a>, <a href="https://leetcode.com/KARMA-SEAL/">programmer :octocat: 💻 </a>, <a href="https://lichess.org/@/cyberkarim"> chess player 🧠♟️ </a> </h1>  
 
 <h2> 🤳 Connect with me : </h2>
 
