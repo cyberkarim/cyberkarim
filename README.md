@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dear reader,<br><br><br>I'm Karim, currently working as a machine learning research engineer. My background revolve around programming, physics, signal processing and applied math. It was my starting point during college days. I specialized later on in artificial intelligence through an engineering degree and a master degree.<br><br>I'm writing blogs about a diverse range of topics, from programming to AI subfields, mostly machine learning, deep learning applications in computer vision and natural language processing.<br><br><br><br><br><br><br>
+Dear reader,<br><br><br>I'm Karim, recent master graduate. My background revolve around programming, signal processing,applied math, AI and data engineering. It was my starting point during college days. I specialized later on in artificial intelligence through an engineering degree and a master degree.<br><br>I'm writing blogs about a diverse range of topics, from programming to AI subfields, mostly machine learning, deep learning applications in computer vision and natural language processing.<br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
